@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://sialater69.github.io/csb-pktsul/static/css/main.b31df1ab.chunk.css",
+    "main.js": "https://sialater69.github.io/csb-pktsul/static/js/main.a4314b55.chunk.js",
+    "main.js.map": "https://sialater69.github.io/csb-pktsul/static/js/main.a4314b55.chunk.js.map",
+    "runtime-main.js": "https://sialater69.github.io/csb-pktsul/static/js/runtime-main.54a308c6.js",
+    "runtime-main.js.map": "https://sialater69.github.io/csb-pktsul/static/js/runtime-main.54a308c6.js.map",
+    "static/js/2.0353c262.chunk.js": "https://sialater69.github.io/csb-pktsul/static/js/2.0353c262.chunk.js",
+    "static/js/2.0353c262.chunk.js.map": "https://sialater69.github.io/csb-pktsul/static/js/2.0353c262.chunk.js.map",
+    "index.html": "https://sialater69.github.io/csb-pktsul/index.html",
+    "static/css/main.b31df1ab.chunk.css.map": "https://sialater69.github.io/csb-pktsul/static/css/main.b31df1ab.chunk.css.map",
+    "static/js/2.0353c262.chunk.js.LICENSE.txt": "https://sialater69.github.io/csb-pktsul/static/js/2.0353c262.chunk.js.LICENSE.txt",
+    "static/media/HelloWorld.191dfdf0.mp4": "https://sialater69.github.io/csb-pktsul/static/media/HelloWorld.191dfdf0.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54a308c6.js",
+    "static/js/2.0353c262.chunk.js",
+    "static/css/main.b31df1ab.chunk.css",
+    "static/js/main.a4314b55.chunk.js"
+  ]
+}
